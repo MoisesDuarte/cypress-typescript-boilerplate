@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "JosefBiehler.cypress-fixture-intellisense",
+    "shevtsov.vscode-cy-helper",
+    "andrew-codes.cypress-snippets",
+    "CliffSu.cypress-snippets",
+    "tnrich.vscode-extension-open-cypress",
+    "chrisbreiding.test-utils"
+  ]
+}
