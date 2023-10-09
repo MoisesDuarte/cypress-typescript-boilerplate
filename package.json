@@ -19,8 +19,8 @@
     "cz-conventional-changelog": "3.3.0",
     "eslint": "8.51.0",
     "typescript": "5.2.2",
-    "husky": "^8.0.0",
-    "pinst": "^3.0.0"
+    "husky": "8.0.0",
+    "pinst": "3.0.0"
   },
   "config": {
     "commitizen": {
